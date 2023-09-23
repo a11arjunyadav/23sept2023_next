@@ -1,0 +1,25 @@
+body{
+  margin: 0px;
+  background-color: #E8E8E8;
+}
+header{
+  width: 90%;
+  height: 100px;
+  background-color: #FFFFFF;
+  border: 1px solid red;
+  margin: auto;
+}
+main{
+  width: 90%;
+  height: 1400px;
+  background-color: #FFFFFF;
+  border: 1px solid red;
+  margin: auto;
+}
+footer{
+  width: 90%;
+  height: 200px;
+  background-color: #FFFFFF;
+  border: 1px solid red;
+  margin: auto;
+}
